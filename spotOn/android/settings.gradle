@@ -1,0 +1,3 @@
+rootProject.name = 'spotOn'
+
+include ':app'
