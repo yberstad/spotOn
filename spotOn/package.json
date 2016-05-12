@@ -7,6 +7,12 @@
   },
   "dependencies": {
     "react": "^0.14.8",
-    "react-native": "^0.25.1"
+    "react-native": "^0.25.1",
+    "ejson": "^2.1.2",
+    "hash.js": "^1.0.3",
+    "lodash": "^4.5.0",
+    "node-ddp-client": "^1.0.0",
+    "react-native-background-geolocation": "^0.6.1",
+    "react-native-maps": "^0.3.2"
   }
 }
